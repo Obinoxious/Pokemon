@@ -1,4 +1,4 @@
-#Wat i´ve got
+#Wat i´ve got#
 Pokemon types, weaknesses and effectiveness
 Damage calculation
 First gen pokemons and stats
